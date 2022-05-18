@@ -1,9 +1,3 @@
-/*
- * File : built_in.c
- * Auth: Mebratu Hailu and Yordanos Dereje
- *
- */
-
 #include "shell.h"
 
 #define SETOWD(V) (V = _strdup(_getenv("OLDPWD")))

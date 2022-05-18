@@ -1,7 +1,3 @@
-/*
- * File: main.c
- * Auth: Mebratu Hailu and Yordanos Dereje
- */
 #include "shell.h"
 /**
  * main - program starts here
